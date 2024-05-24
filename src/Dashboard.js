@@ -525,17 +525,6 @@ class GripperList extends Component {
   };
 
 
-
-
-
-
-
-
-
-
-
-
-
   render() {
     const { isModalOpen, selectedGripperDetails } = this.state;
     const { searchTerm } = this.state;
